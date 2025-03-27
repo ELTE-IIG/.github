@@ -2,6 +2,7 @@
 
 ![ELTE-IIG](https://github.com/user-attachments/assets/e5e244d7-0aa8-4961-9466-5a4121895ff1)
 
+
 Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, illetve felhasználói kört érintő informatikai és telekommunikációs infrastruktúra, valamint alap- és speciális informatikai szolgáltatások fenntartásáért, fejlesztéséért és üzemeltetéséért felelős szervezeti egység.
 
 ## Az Informatikai Igazgatóság feladatai
@@ -23,3 +24,13 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 - [FortiClient VPN](https://iig.elte.hu/content/vpn-beallitasok.t.16226?m=5575)
 - [IBM SPSS Statistics](https://iig.elte.hu/content/az-spss-programrol.t.17309?m=5810)
 - [AFS](https://iig.elte.hu/content/afs-kliens.t.16228?m=5568)
+
+## Elérhetőségek
+
+### Szerb utcai csoport
+
+**Cím:** 1053 Budapest, Kecskeméti u. 10-12.
+**Telefon:** 483-8000 / 6800 mellék
+**Email:** szerb.informatika@elte.hu
+
+
