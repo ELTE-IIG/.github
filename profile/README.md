@@ -29,8 +29,8 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 
 ### Szerb utcai csoport
 
-**Cím:** 1053 Budapest, Kecskeméti u. 10-12.
-**Telefon:** 483-8000 / 6800 mellék
-**Email:** szerb.informatika@elte.hu
+- **Cím:** 1053 Budapest, Kecskeméti u. 10-12.
+- **Telefon:** 483-8000 / 6800 mellék
+- **Email:** szerb.informatika@elte.hu
 
 
