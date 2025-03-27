@@ -29,9 +29,9 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 
 ### Operátori szolgálat
 
-- **Cím:**1117 Budapest, Pázmány Péter sétány 1/A, 6. em. 6.127. szoba
-- **Telefon:**372-2500 / 6800 mellék
-- **Email:**operator@elte.hu
+- **Cím:** 1117 Budapest, Pázmány Péter sétány 1/A, 6. em. 6.127. szoba
+- **Telefon:** 372-2500 / 6800 mellék
+- **Email:** operator@elte.hu
 
 ### Szerb utcai csoport
 
