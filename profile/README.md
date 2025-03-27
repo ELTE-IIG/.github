@@ -58,7 +58,7 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 
 - **Cím:** 1075 Budapest, Kazinczy u. 23-27.
 - **Telefon:** 411-6500 / 6800 mellék
-- **Email:** kazy.informatika@elte.hu
+- **Email:** kazy.informatika@elte.hu  
 
 - **Cím:** 1064 Budapest, Izabella u. 46
 - **Telefon:** 411-6500 / 6800 mellék
