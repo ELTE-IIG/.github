@@ -1,4 +1,4 @@
-![ELTE-IIG](https://github.com/user-attachments/assets/2f2cd4e2-00e8-45b2-bd78-6eddeaabbaa7)
+![ELTE-IIG](https://raw.githubusercontent.com/ELTE-IIG/.github/refs/heads/main/src/img/logo.png)
 
 Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, illetve felhasználói kört érintő informatikai és telekommunikációs infrastruktúra, valamint alap- és speciális informatikai szolgáltatások fenntartásáért, fejlesztéséért és üzemeltetéséért felelős szervezeti egység.
 
