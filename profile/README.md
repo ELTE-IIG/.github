@@ -22,6 +22,10 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 - [IBM SPSS Statistics](https://iig.elte.hu/content/az-spss-programrol.t.17309?m=5810)
 - [AFS](https://iig.elte.hu/content/afs-kliens.t.16228?m=5568)
 
+<details>
+
+<summary>**Helyszíni támogató csoportok és elérhetőségek**</summary>
+
 ## Helyszíni támogató csoportok
 
 ### Operátori szolgálat
@@ -108,3 +112,4 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 - **Telefon:** 411-6500 / 6800 mellék
 - **Email:** gyertyanffy.informatika@elte.hu
 
+</details>
