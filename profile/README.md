@@ -1,8 +1,5 @@
 # ELTE Informatikai Igazgatóság
 
-![ELTE-IIG](https://github.com/user-attachments/assets/e5e244d7-0aa8-4961-9466-5a4121895ff1)
-
-
 Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, illetve felhasználói kört érintő informatikai és telekommunikációs infrastruktúra, valamint alap- és speciális informatikai szolgáltatások fenntartásáért, fejlesztéséért és üzemeltetéséért felelős szervezeti egység.
 
 ## Az Informatikai Igazgatóság feladatai
@@ -30,13 +27,76 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 ### Operátori szolgálat
 
 - **Cím:** 1117 Budapest, Pázmány Péter sétány 1/A, 6. em. 6.127. szoba
-- **Telefon:** 372-2500 / 6800 mellék
+- **Telefon:** 411-6500 / 6800 mellék
 - **Email:** operator@elte.hu
 
 ### Szerb utcai csoport
 
 - **Cím:** 1053 Budapest, Kecskeméti u. 10-12.
-- **Telefon:** 483-8000 / 6800 mellék
+- **Telefon:** 411-6500 / 6800 mellék
 - **Email:** szerb.informatika@elte.hu
 
+### Lágymányosi csoport - TÁTK-TTK
+
+- **Cím:** 1117 Budapest, Pázmány Péter sétány 1/A, 6. em. 6.127. szoba / 6. em. 6.126 szoba
+- **Telefon:** 411-6500 / 6800 mellék
+- **Email:** tatk.informatika@elte.hu , ttk.informatika@elte.hu
+
+### BGGYK
+
+- **Cím:** 1097 Budapest, Ecseri út 3.
+- **Telefon:** 411-6500 / 6800 mellék
+- **Email:** barczi.informatika@elte.hu
+
+### Trefort-kerti csoport - BTK
+
+- **Cím:** 1088 Budapest, Múzeum krt. 4/C, alagsor 60/A
+- **Telefon:** 411-6500 / 6800 mellék
+- **Email:** btk.informatika@elte.hu
+
+### PPK
+
+- **Cím:** 1075 Budapest, Kazinczy u. 23-27.
+- **Telefon:** 411-6500 / 6800 mellék
+- **Email:** kazy.informatika@elte.hu
+
+- **Cím:** 1064 Budapest, Izabella u. 46
+- **Telefon:** 411-6500 / 6800 mellék
+- **Email:** izu.informatika@elte.hu
+
+### ÁJK
+
+- **Cím:** 1053 Budapest, Egyetem tér 1-3.
+- **Telefon:** 411-6500 / 6800 mellék
+- **Email:** ajk.informatika@elte.hu
+
+### TOK
+
+- **Cím:** 1126 Budapest, Kiss János altb. u. 40.
+- **Telefon:** 411-6500 / 6800 mellék
+- **Email:** tok.informatika@elte.hu
+
+### SEK
+
+- **Cím:** 9700 Szombathely, Károlyi Gáspár tér 4.
+- **Telefon:** 411-6500 / 6800 mellék
+- **Email:** informatika@sek.elte.hu
+
+### Damjanich utcai kollégium
+
+- **Cím:** 1071 Budapest, Damjanich u. 41-43
+- **Telefon:** 411-6500 / 6800 mellék
+- **Email:** dami.informatika@elte.hu
+
+### Apáczai Csere János Gyakorló Gimnázium és Kollégium
+
+- **Cím:** 1053 Budapest, Papnövelde u. 4-6
+- **Telefon:** 411-6500 / 6800 mellék
+- **Email:** apaczai.informatika@elte.hu
+
+### Gyertyánffy István Gyakorló Általános Iskola
+
+- **Cím:** 1126 Budapest, Kiss János altábornagy u. 42
+- **Telefon:** 411-6500 / 6800 mellék
+- **Email:** gyertyanffy.informatika@elte.hu
 
