@@ -1,3 +1,5 @@
+# ELTE Informatikai Igazgatóság
+
 ![ELTE-IIG](https://github.com/user-attachments/assets/e5e244d7-0aa8-4961-9466-5a4121895ff1)
 
 Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, illetve felhasználói kört érintő informatikai és telekommunikációs infrastruktúra, valamint alap- és speciális informatikai szolgáltatások fenntartásáért, fejlesztéséért és üzemeltetéséért felelős szervezeti egység.
@@ -14,3 +16,10 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 - Az országos kutatói hálózat (HBONE) regionális centrumával kapcsolatos feladatok ellátása
 - Szaktanácsadási és koordinációs feladatok az egyetemen történő informatikai fejlesztésekkel kapcsolatban
 - Az egyetem képviselete az Informatikai Igazgatóság feladataiban érdekelt szakmai szervezetekben, hazai és nemzetközi fórumokon
+
+## Beállítási segédletek
+
+- [Office 365](https://iig.elte.hu/content/o365.t.16222?m=5561)
+- [FortiClient VPN](https://iig.elte.hu/content/vpn-beallitasok.t.16226?m=5575)
+- [IBM SPSS Statistics](https://iig.elte.hu/content/az-spss-programrol.t.17309?m=5810)
+- [AFS](https://iig.elte.hu/content/afs-kliens.t.16228?m=5568)
