@@ -36,7 +36,11 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 ## Helyszíni támogató csoportok
 
 <details>
-<summary><i>Elérhetőségek</i></summary>
+<summary>
+
+**Elérhetőségek**
+
+</summary>
 
 ### Operátori szolgálat
 
