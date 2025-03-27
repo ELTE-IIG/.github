@@ -1,5 +1,3 @@
-# .github
-
 ![ELTE-IIG](https://github.com/user-attachments/assets/e5e244d7-0aa8-4961-9466-5a4121895ff1)
 
 Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, illetve felhasználói kört érintő informatikai és telekommunikációs infrastruktúra, valamint alap- és speciális informatikai szolgáltatások fenntartásáért, fejlesztéséért és üzemeltetéséért felelős szervezeti egység.
