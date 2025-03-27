@@ -29,10 +29,16 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 <summary><i>Hogyan tudok IIG azonosítót igényelni?</i></summary>
 </details>
 
-## Helyszíni támogató csoportok
+<details>
+<summary><i>Hogyan tudom megváltoztatni a jelszavam?</i></summary>
+</details>
 
 <details>
-<summary>Elérhetőségek</summary>
+<summary>
+
+#### Helyszíni támogató csoportok
+
+</summary>
 
 ### Operátori szolgálat
 
