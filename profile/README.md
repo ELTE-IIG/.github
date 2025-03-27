@@ -22,9 +22,10 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 - [IBM SPSS Statistics](https://iig.elte.hu/content/az-spss-programrol.t.17309?m=5810)
 - [AFS](https://iig.elte.hu/content/afs-kliens.t.16228?m=5568)
 
-<details>
+## Helyszíni támogató csoportok
 
-<summary>**Helyszíni támogató csoportok és elérhetőségek**</summary>
+<details>
+<summary>Elérhetőségek</summary>
 
 ## Helyszíni támogató csoportok
 
