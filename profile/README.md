@@ -36,7 +36,7 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 <details>
 <summary>
 
-#### Helyszíni támogató csoportok
+## Helyszíni támogató csoportok
 
 </summary>
 
