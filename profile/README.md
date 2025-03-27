@@ -33,12 +33,10 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 <summary><i>Hogyan tudom megváltoztatni a jelszavam?</i></summary>
 </details>
 
-<details>
-<summary>
-
 ## Helyszíni támogató csoportok
 
-</summary>
+<details>
+<summary><i>Elérhetőségek</i></summary>
 
 ### Operátori szolgálat
 
