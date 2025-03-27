@@ -38,9 +38,15 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 
 ### Lágymányosi csoport - TÁTK-TTK
 
-- **Cím:** 1117 Budapest, Pázmány Péter sétány 1/A, 6. em. 6.127. szoba / 6. em. 6.126 szoba
-- **Telefon:** 411-6500 / 6800 mellék
-- **Email:** tatk.informatika@elte.hu , ttk.informatika@elte.hu
+- TÁTK
+  - **Cím:** 1117 Budapest, Pázmány Péter sétány 1/A, 6. em. 6.127. szoba
+  - **Telefon:** 411-6500 / 6800 mellék
+  - **Email:** tatk.informatika@elte.hu
+
+- TTK
+  - **Cím:** 1117 Budapest, Pázmány Péter sétány 1/A, 6. em. 6.126. szoba
+  - **Telefon:** 411-6500 / 6800 mellék
+  - **Email:** ttk.informatika@elte.hu
 
 ### BGGYK
 
