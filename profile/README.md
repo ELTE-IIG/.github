@@ -27,9 +27,11 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 
 <details>
 <summary><i>Hogyan tudok IIG azonosítót igényelni?</i></summary>
+<br>
 
-Azonosítót igényelni az [Ügykezelő](https://ugykezelo.elte.hu) oldalon lehet, egy Neptunos bejelentkezés után.
-> [!NOTE]
+Azonosítót igényelni az **[Ügykezelő](https://ugykezelo.elte.hu)** oldalon lehet, egy Neptunos bejelentkezés után.
+
+> [!IMPORTANT]
 > Ahhoz, hogy Neptunnal be tudj lépni kell már aktívált jogviszonnyal rendelkezned.
 
 </details>
