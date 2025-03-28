@@ -20,7 +20,7 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 Az egyetemi élethez szükséges IT szolgáltatások többsége IIG azonosítóval vehető igénybe, ez az azonosító kíséri végig az egyetemista éveket, ezzel lehet számos felületen belépni, beleértve a levelezést, a Teams-et és az eduroam wifi hálózatot.
 
 > [!IMPORTANT]
-> **Az IIG azonosító megváltoztatására <ins>nincsen</ins> lehetőség, csak nagyon kirívó esetben.**  
+> **Az IIG azonosító megváltoztatására <ins>nincsen</ins> lehetőség, csak kirívó esetben.**  
 > **Ez az azonosító fog szerepelni az eltés e-mail címében is! pl: iigazonosito@student.elte.hu**
 
 ## Beállítási segédletek
@@ -49,6 +49,16 @@ A jelszót megváltoztatni az **[Ügykezelő](https://ugykezelo.elte.hu)** oldal
 **Jelszó változtatás után várni kell 5-10 percet, hogy az mindenhol érvénybe lépjen!**
 
 </details>
+
+<details>
+<summary><i>Hogyan tudom megváltoztatni az IIG azonosítom?</i></summary>
+<br>
+
+Az IIG azonosító megváltoztatására <ins>nincsen</ins> lehetőség, csak kirívó esetben.  
+Ha úgy gondolja, hogy az Ön esete ilyen akkor azt jelezze felénk és megvizsgáljuk: operator@elte.hu
+
+</details>
+
 
 ## Helyszíni támogató csoportok és elérhetőségek
 
