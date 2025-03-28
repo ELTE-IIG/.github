@@ -42,10 +42,13 @@ A jelszót megváltoztatni az **[Ügykezelő](https://ugykezelo.elte.hu)** oldal
 
 </details>
 
-## Helyszíni támogató csoportok
+## Helyszíni támogató csoportok és elérhetőségek
+
+> [!INFO]
+> Központi elérhetőség: operator@elte.hu
 
 <details>
-<summary><i>Elérhetőségek</i></summary>
+<summary><i>További helyszíni támogató csoportok</i></summary>
 
 ### Operátori szolgálat
 
