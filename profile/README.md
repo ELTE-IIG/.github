@@ -44,8 +44,8 @@ A jelszót megváltoztatni az **[Ügykezelő](https://ugykezelo.elte.hu)** oldal
 
 ## Helyszíni támogató csoportok és elérhetőségek
 
-> [!INFO]
-> Központi elérhetőség: operator@elte.hu
+>[!INFO]
+>Központi elérhetőség: operator@elte.hu
 
 <details>
 <summary><i>További helyszíni támogató csoportok</i></summary>
