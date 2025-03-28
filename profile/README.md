@@ -15,13 +15,20 @@ Az Informatikai Igazgatóság a Kancellária részeként a teljes egyetemet, ill
 - Szaktanácsadási és koordinációs feladatok az egyetemen történő informatikai fejlesztésekkel kapcsolatban
 - Az egyetem képviselete az Informatikai Igazgatóság feladataiban érdekelt szakmai szervezetekben, hazai és nemzetközi fórumokon
 
+## IIG azonosító
+
+Az egyetemi élethez szükséges IT szolgáltatások többsége IIG azonosítóval vehető igénybe, ez az azonosító kíséri végig az egyetemista éveket, ezzel lehet számos felületen belépni, beleértve a levelezést, a Teams-et és az eduroam wifi hálózatot.
+
+> [!IMPORTANT]
+> **Az IIG azonosító változtatására <ins>nincsen</ins> lehetőség, csak nagyon kirívó esetben.**  
+> **Ez az azonosító fog szerepelni az eltés e-mail címében is! pl: iigazonosito@student.elte.hu**
+
 ## Beállítási segédletek
 
 - [Office 365](https://iig.elte.hu/content/o365.t.16222?m=5561)
 - [FortiClient VPN](https://iig.elte.hu/content/vpn-beallitasok.t.16226?m=5575)
 - [IBM SPSS Statistics](https://iig.elte.hu/content/az-spss-programrol.t.17309?m=5810)
 - [AFS](https://iig.elte.hu/content/afs-kliens.t.16228?m=5568)
-
 
 ## GYIK
 
