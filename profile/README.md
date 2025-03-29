@@ -51,7 +51,7 @@ A jelszót megváltoztatni az **[Ügykezelő](https://ugykezelo.elte.hu)** oldal
 </details>
 
 <details>
-<summary><i>Hogyan tudom megváltoztatni az IIG azonosítom?</i></summary>
+<summary><i>Hogyan tudom megváltoztatni az IIG azonosítómat?</i></summary>
 <br>
 
 Az IIG azonosító megváltoztatására <ins>nincsen</ins> lehetőség, csak kirívó esetben.  
