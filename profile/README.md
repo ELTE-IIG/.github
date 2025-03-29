@@ -66,7 +66,11 @@ Ha úgy gondolja, hogy az Ön esete ilyen akkor azt jelezze felénk és megvizsg
 Szüksége lesz wifi azonosítóra amit az **[Ügykezelő](https://ugykezelo.elte.hu)** oldalon tud igényelni.  
 Belépés után válassza a "WiFi igénylés" lehetőséget és haladjon végig a folyamaton.  
 **Fontos, hogy az IIG azonosítójával és jelszavával lépjen be különben nem fogja látni a "WiFi igénylés" lehetőséget.**
-
+  
+Ha elkészült a wifi azonosítója akkor az IIG azonosítójával és az ahhoz tartozó jelszavával tud csatlakozni az eduroam wifi hálózatra. 
+   
+*Tipp!* Ha IIG azonosítója mögé beírja a '@ELTE.HU' végződést akkor bármelyik eduroam hálózatra fog tudni csatlakozni.  
+Ez hasznos lehet ha külföldön vagy egy másik egyetemen tartózkodik.
 </details>
 
 
