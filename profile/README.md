@@ -59,6 +59,16 @@ Ha úgy gondolja, hogy az Ön esete ilyen akkor azt jelezze felénk és megvizsg
 
 </details>
 
+<details>
+<summary><i>Hogyan tudom használni az eduroam wifi hálózatot?</i></summary>
+<br>
+
+Szüksége lesz wifi azonosítóra amit az **[Ügykezelő](https://ugykezelo.elte.hu)** oldalon tud igényelni.  
+Belépés után válassza a "WiFi igénylés" lehetőséget és haladjon végig a folyamaton.  
+**Fontos, hogy az IIG azonosítójával és jelszavával lépjen be különben nem fogja látni a "WiFi igénylés" lehetőséget.**
+
+</details>
+
 
 ## Helyszíni támogató csoportok és elérhetőségek
 
