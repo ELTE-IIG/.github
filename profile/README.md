@@ -37,7 +37,7 @@ Az egyetemi élethez szükséges IT szolgáltatások többsége IIG azonosítóv
 <br>
 
 Azonosítót igényelni az **[Ügykezelő](https://ugykezelo.elte.hu)** oldalon lehet, miután bejelentkezett a Neptun azonosítójával.  
-**Ahhoz, hogy Neptunnal be tudjon lépni már aktív jogviszonnyal kell rendelkeznie.**
+**Ahhoz, hogy Neptunnal be tudjon lépni már aktív jogviszonnyal kell rendelkeznie!**
 
 </details>
 
