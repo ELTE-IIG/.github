@@ -23,7 +23,7 @@ Az egyetemi élethez szükséges IT szolgáltatások többsége IIG azonosítóv
 > **Az IIG azonosító megváltoztatására <ins>nincsen</ins> lehetőség, csak kirívó esetben.**  
 > **Ez az azonosító fog szerepelni az eltés e-mail címében is! pl: iigazonosito@student.elte.hu**
 
-## Beállítási segédletek
+## Beállítási segédletek és szoftver disztribúciók
 
 - [Office 365](https://iig.elte.hu/content/o365.t.16222?m=5561)
 - [FortiClient VPN](https://iig.elte.hu/content/vpn-beallitasok.t.16226?m=5575)
